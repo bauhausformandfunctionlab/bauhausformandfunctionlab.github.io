@@ -20,6 +20,6 @@ This [formula](https://www.who.int/gpsc/5may/Guide_to_Local_Production.pdf) can 
 
 https://github.com/bauhausformandfunctionlab/covid19/tree/master/WHOHandSanitizer
 
-### Support or Contact
+### Contact
 Questions? Comments? Something to share?
 Get in touch with us at jason.reizner \[at] uni-weimar.de
