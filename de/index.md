@@ -8,11 +8,17 @@ Das Kleingedruckte: Bitte beachten Sie, dass die untenstehenden Designs urheberr
 ### 3DVerkstan-Visier
 Dieses [Visier](https://3dverkstan.se/protective-visor/) ist unser derzeitiger Schwerpunkt für die lokale Produktion. Dieses Design kann so [optimiert](https://3dverkstan.se/protective-visor/protective-visor-print-guide/) werden, dass es in weniger als 40 Minuten (Prusa Mk3, 0,4 mm) oder 25 Minuten (Prusa Mk3, 0,8 mm) gedruckt werden kann und nur 16 g Filament pro Einheit benötigt. Wir stellen diese derzeit aus PETG her, obwohl bei Bedarf auch PLA oder ABS verwendet werden können. Die Frontblende kann aus verschiedenen Materialien hergestellt werden, unter Anderem auch aus handelsüblichen A4-Klarsichtfolien, und erfordert nicht den Einsatz eines Lasercutters.
 
+https://github.com/bauhausformandfunctionlab/covid19/tree/master/3DVerkstanVisor
+
 ### Prusa RC1/2/3 Visor
 Dieses [Visier](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc3) besteht aus zwei 3D-gedruckten Rahmenteilen und einem lasergeschnittenen PETG-Schild. Dieses robuste Design hat zwar eine vorläufige Zulassung für die medizinische Verwendung in der Tschechischen Republik, ist aber ressourcenintensiver in der Herstellung, da es etwa drei Stunden Druckzeit (Prusa Mk3, 0,4 mm) und ~60 Gramm PETG-Filament pro Einheit benötigt. Das Visier ist in der Produktion stapelbar und benötigt dadurch weniger manuelle Eingriffe.
 
+https://github.com/bauhausformandfunctionlab/covid19/tree/master/PrusaVisor
+
 ### WHO-Formel für Händedesinfektionsmittel
 Diese [Formel](https://www.who.int/gpsc/5may/Guide_to_Local_Production.pdf) kann unter Verwendung von Isopropylalkohol oder Ethanol, Wasserstoffperoxid und Glycerin hergestellt werden. Die Mitarbeiter der BFFL verwenden dieses Händedesinfektionsmittel seit fast vier Wochen.
+
+https://github.com/bauhausformandfunctionlab/covid19/tree/master/WHOHandSanitizer
 
 ### Kontakt
 Haben Sie Fragen? Kommentare? Etwas zum Teilen? Nehmen Sie Kontakt mit uns auf jason.reizner [at] uni-weimar.de auf.
