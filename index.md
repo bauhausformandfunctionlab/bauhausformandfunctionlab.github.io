@@ -8,11 +8,17 @@ The Fine Print: Please be aware that designs below are the property of their res
 ### 3DVerkstan Visor
 This [visor](https://3dverkstan.se/protective-visor/) is our current focus for local production. This design can be [optimized](https://3dverkstan.se/protective-visor/protective-visor-print-guide/) to print in under 40 minutes (Prusa Mk3, 0.4mm) or 25 minutes (Prusa Mk3, 0.8mm) and requires only 16g of filament per unit. We are currently producing these from PETG, although PLA or ABS can also be used if necessary. The front shield can be produced from a variety of materials, including consumer A4-size transparency films, and does not require the use of a laser cutter.
 
+https://github.com/bauhausformandfunctionlab/covid19/tree/master/3DVerkstanVisor
+
 ### Prusa RC1/2/3 Visor
 This [visor](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc3) consists of two 3D-printed frame components and a lasercut PETG shield. While this robust design has a preliminary approval for medical use in the Czech Republic, it is more resource intensive to produce, requiring roughly three hours print time (Prusa Mk3, 0.4mm) and ~60 grams of PETG filament per unit. Production stacking has been demonstrated to work with this design.
 
+https://github.com/bauhausformandfunctionlab/covid19/tree/master/PrusaVisor
+
 ### WHO Hand Sanitizer Formula
 This [formula](https://www.who.int/gpsc/5may/Guide_to_Local_Production.pdf) can be produced using isopropyl alcohol or ethanol, hydrogen peroxide and glycerol. BFFL staff have been using this hand sanitizer for nearly four weeks.
+
+https://github.com/bauhausformandfunctionlab/covid19/tree/master/WHOHandSanitizer
 
 ### Support or Contact
 Questions? Comments? Something to share?
