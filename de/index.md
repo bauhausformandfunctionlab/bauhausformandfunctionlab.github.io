@@ -1,3 +1,5 @@
+###### [English version here](https://bffl.io)
+
 ## BFFL-Gemeinschaftsressourcen für COVID-19
 Während die Welt zusammenarbeitet, um die beispiellosen Herausforderungen der COVID-19-Pandemie zu bewältigen, arbeitet das Team des [Bauhaus Form + Function Lab](https://uni-weimar.de/bffl) derzeit mit Partnern und Mitarbeitern in der Region und in ganz Europa zusammen, um relevante Entwürfe und Optimierungen für persönliche Schutzausrüstungen und andere Materialien auszutauschen. Die Schutzausrüstungen sollen mit Standardwerkzeugen hergestellt werden können, die in Prototypen-Labors, Makerspaces und individuellen Werkstätten in Kommunen auf der ganzen Welt zu finden sind.
 
