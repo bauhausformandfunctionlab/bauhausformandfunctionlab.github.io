@@ -5,6 +5,13 @@ As the world works together to overcome the unprecedented challenges brought on 
 
 The Fine Print: Please be aware that designs below are the property of their respective creators. We strongly urge everyone to adhere to the strictest hygiene measures and to consult with local authorities before beginning production or distribution. While these designs are being shared in good faith, the BFFL and Bauhaus-Universität Weimar do not guarantee the suitability for use, merchantability, or fitness for particular purpose of the designs listed below, and do not assume liability arising from their production or use.
 
+### Bauhaus Lasercut Visor
+Co-developed by [Prof. Andreas Mühlenberend](https://www.uni-weimar.de/en/art-and-design/structure/disciplines-staff/produktdesign-product-design/prof-andreas-muehlenberend/) and [Vertr.-Prof. Jason Reizner](https://www.uni-weimar.de/de/kunst-und-gestaltung/professuren/interface-design/), this visor is constructed from two components laser cut from transparent 0.5mm PETG film, requiring no 3D-printing or elastics. This design represents a vast improvement in production throughput compared with 3D printing: Eight visors can be cut from 1000x600mm PETG sheet in under five minutes. Preliminary tests indicate that PETG is resistant to disinfection agents including isopropyl alcohol, quaternary ammonium compounds and hydrogen peroxide solution.
+
+https://github.com/bauhausformandfunctionlab/covid19/tree/master/BauhausLasercutVisor
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
 ### 3DVerkstan Visor
 This [visor](https://3dverkstan.se/protective-visor/) is our current focus for local production. This design can be [optimized](https://3dverkstan.se/protective-visor/protective-visor-print-guide/) to print in under 40 minutes (Prusa Mk3, 0.4mm) or 25 minutes (Prusa Mk3, 0.8mm) and requires only 16g of filament per unit. We are currently producing these from PETG, although PLA or ABS can also be used if necessary. The front shield can be produced from a variety of materials, including consumer A4-size transparency films, and does not require the use of a laser cutter.
 
