@@ -10,9 +10,7 @@ Dieses Visier wurde von [Prof. Andreas Mühlenberend](https://www.uni-weimar.de/
 
 [Produktionsdateien](https://github.com/bauhausformandfunctionlab/covid19/tree/master/BauhausLaserCutVisor)
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-
-Dieses Design ist unter Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License lizenziert.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Dieses Design ist unter <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a> lizenziert.
 
 ### 3DVerkstan-Visier
 Dieses [Visier](https://3dverkstan.se/protective-visor/) ist unser derzeitiger Schwerpunkt für die lokale Produktion. Dieses Design kann so [optimiert](https://3dverkstan.se/protective-visor/protective-visor-print-guide/) werden, dass es in weniger als 40 Minuten (Prusa Mk3, 0,4 mm) oder 25 Minuten (Prusa Mk3, 0,8 mm) gedruckt werden kann und nur 16 g Filament pro Einheit benötigt. Wir stellen diese derzeit aus PETG her, obwohl bei Bedarf auch PLA oder ABS verwendet werden können. Die Frontblende kann aus verschiedenen Materialien hergestellt werden, unter Anderem auch aus handelsüblichen A4-Klarsichtfolien, und erfordert nicht den Einsatz eines Lasercutters.
