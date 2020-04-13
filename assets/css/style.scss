@@ -66,10 +66,40 @@ body {
  background-color:#fff;
  padding:50px;
  font:16px/1.5 "Barlow", "Helvetica Neue", Helvetica, Arial, sans-serif;
- color:#1a0000;
+ color:#000000;
  font-weight:400;
 }
 
 img {
   image-rendering: -webkit-optimize-contrast;
+}
+
+h2 {
+  color:#000000;
+}
+
+h3,
+h4,
+h5,
+h6 {
+  color:#000000;
+}
+
+a {
+ color:#00ccff;
+ text-decoration:none
+}
+a:hover,
+a:focus {
+ color:#0099ff;
+ font-weight:underline
+}
+a small {
+ font-size:11px;
+ color:#777;
+ margin-top:-0.3em;
+ display:block
+}
+a:hover small {
+ color:#777
 }
