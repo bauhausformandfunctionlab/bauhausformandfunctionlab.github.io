@@ -70,6 +70,12 @@ body {
  font-weight:400;
 }
 
+br {
+  display: block;
+  content: "";
+  margin-top: 0;
+}
+
 img {
   image-rendering: -webkit-optimize-contrast;
 }
