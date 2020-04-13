@@ -69,3 +69,7 @@ body {
  color:#727272;
  font-weight:400;
 }
+
+img {
+  image-rendering: -webkit-optimize-contrast;
+}
