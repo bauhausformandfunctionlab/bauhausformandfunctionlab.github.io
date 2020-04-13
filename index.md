@@ -7,7 +7,7 @@ The Fine Print: Please be aware that designs below are the property of their res
 
 ### Bauhaus Laser Cut Visor
 
-{% include youtube.html id=kSDAMLoUkxs %}
+{% include /docs/youtube.html id=kSDAMLoUkxs %}
 
 Co-developed by [Prof. Andreas Mühlenberend](https://www.uni-weimar.de/en/art-and-design/structure/disciplines-staff/produktdesign-product-design/prof-andreas-muehlenberend/) and [Vertr.-Prof. Jason Reizner](https://www.uni-weimar.de/de/kunst-und-gestaltung/professuren/interface-design/), this visor is constructed from two components laser cut from a single material (transparent 0.5mm PETG film), and is presented as a universal design ('one size fits all') requiring no 3D printing or elastics. This design represents a vast improvement in production throughput compared with 3D printing, and ensures maximum usage of material: Eight visors can be cut from 1000x600mm PETG sheet in under five minutes.  Preliminary tests indicate that PETG is resistant to disinfection agents including isopropyl alcohol, quaternary ammonium compounds and hydrogen peroxide solution.
 
