@@ -118,3 +118,10 @@ a:hover small {
   border-bottom:1px solid #000000
  }
 }
+
+@media print, screen and (max-width: 720px) {
+ body {
+  word-wrap:normal;
+  padding: 20px;
+ }
+}
