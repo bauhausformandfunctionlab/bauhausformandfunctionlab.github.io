@@ -8,7 +8,7 @@ image_sliders:
 ##### [hier zur deutschsprachigen Version](https://bffl.io/de)
 
 ## Community Resources for COVID-19
-As the world works together to overcome the unprecedented challenges brought on by the COVID-19 pandemic, the team at the [Bauhaus Form + Function Lab](https://uni-weimar.de/bffl){:target="_blank" rel="noopener"} is currently working with partners and collaborators across the region and across Europe to share relevant designs and optimizations for personal protective equipment and other materials, which can be produced with the standard tools found in prototype labs, makerspaces and individual studios in communities around the globe.
+As the world works together to overcome the unprecedented challenges brought on by the COVID-19 pandemic, the team at the [Bauhaus Form + Function Lab](https://uni-weimar.de/bffl){:target="_blank" rel="noopener"} is currently working with [partners and collaborators](http://bffl.io/partners) across the region and across Europe to share relevant designs and optimizations for personal protective equipment and other materials, which can be produced with the standard tools found in prototype labs, makerspaces and individual studios in communities around the globe.
 
 The Fine Print: Please be aware that designs below are the property of their respective creators. We strongly urge everyone to adhere to the strictest hygiene measures and to consult with local authorities before beginning production or distribution. While these designs are being shared in good faith, the BFFL and Bauhaus-Universität Weimar do not guarantee the suitability for use, merchantability, or fitness for particular purpose of the designs listed below, and do not assume liability arising from their production or use.
 <br /><br />
