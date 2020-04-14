@@ -1,8 +1,14 @@
 - selector: blcv_slider
   captions: false
   images:
-    - src: /assets/images/blcv/0.blcv.jpg
-      alt: Bauhaus Laser Cut Visor 0
+    - src: /assets/images/blcv/0a.blcv.jpg
+      alt: Bauhaus Laser Cut Visor 0a
+    - src: /assets/images/blcv/0b.blcv.jpg
+      alt: Bauhaus Laser Cut Visor 0b
+    - src: /assets/images/blcv/0c.blcv.jpg
+      alt: Bauhaus Laser Cut Visor 0c
+    - src: /assets/images/blcv/0d.blcv.jpg
+      alt: Bauhaus Laser Cut Visor 0d
     - src: /assets/images/blcv/1.blcv.jpg
       alt: Bauhaus Laser Cut Visor 1
     - src: /assets/images/blcv/2.blcv.jpg
