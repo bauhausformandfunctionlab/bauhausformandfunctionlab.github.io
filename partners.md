@@ -1,6 +1,6 @@
 ## Partners &amp; Collaborators / <br />*Partner &amp; Kollaborateure*
 <br /><br />
-**[Professorship of Interface Design](https://www.uni-weimar.de/de/kunst-und-gestaltung/professuren/interface-design/{:target="_blank" rel="noopener"})** / ***[Professur Interface Design](https://www.uni-weimar.de/de/kunst-und-gestaltung/professuren/interface-design/){:target="_blank" rel="noopener"})***<br />
+**[Professorship of Interface Design](https://www.uni-weimar.de/de/kunst-und-gestaltung/professuren/interface-design/{:target="_blank" rel="noopener"})** / ***[Professur Interface Design](https://www.uni-weimar.de/de/kunst-und-gestaltung/professuren/interface-design/){:target="_blank" rel="noopener"}***<br />
 **Bauhaus-Universität Weimar**<br />
 Vertr.-Prof. Jason M. Reizner<br />
 Darko Velazquez<br />
