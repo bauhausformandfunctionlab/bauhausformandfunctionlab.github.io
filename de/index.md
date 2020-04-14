@@ -1,3 +1,8 @@
+---
+image_sliders:
+  - 3dv_slider
+---
+
 ##### [English version here](https://bffl.io)
 
 ## Gemeinschaftsressourcen für COVID-19
