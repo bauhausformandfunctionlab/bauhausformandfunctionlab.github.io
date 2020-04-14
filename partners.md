@@ -7,9 +7,9 @@ Darko Velazquez<br />
 Brian Larson Clark<br />
 Clemens Wegener<br />
 <br />
-**Professur Industrie Design / *Professorship of Industrial Design***<br />
+**Professur Industriedesign / *Professorship of Industrial Design***<br />
 **Bauhaus-Universität Weimar**<br />
-Prof. Andreas Muhlenberend<br />
+Prof. Andreas Mühlenberend<br />
 <br />
 **Open Process Lab**<br />
 **Bauhaus-Universität Weimar**<br />
