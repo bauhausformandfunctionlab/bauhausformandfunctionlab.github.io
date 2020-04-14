@@ -31,7 +31,7 @@ This [visor](https://3dverkstan.se/protective-visor/){:target="_blank" rel="noop
 [Production Files](https://github.com/bauhausformandfunctionlab/covid19/tree/master/3DVerkstanVisor){:target="_blank" rel="noopener"}
 <br /><br />
 ### Prusa RC1/2/3 Visor
-This [visor](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc3) consists of two 3D-printed frame components and a lasercut PETG shield. While this robust design has a preliminary approval for medical use in the Czech Republic, it is more resource intensive to produce, requiring roughly three hours print time (Prusa Mk3, 0.4mm) and ~60 grams of PETG filament per unit. Production stacking has been demonstrated to work with this design.
+This [visor](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc3){:target="_blank" rel="noopener"} consists of two 3D-printed frame components and a lasercut PETG shield. While this robust design has a preliminary approval for medical use in the Czech Republic, it is more resource intensive to produce, requiring roughly three hours print time (Prusa Mk3, 0.4mm) and ~60 grams of PETG filament per unit. Production stacking has been demonstrated to work with this design.
 
 {% include slider.html selector="pv_slider" %}
 <br />
