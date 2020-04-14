@@ -1,14 +1,14 @@
 ## Impressum
-Herausgeber
-Vertr.-Prof. Jason M. Reizner
-Bauhaus Form + Function Lab
-Bauhaus-Universität Weimar
-Marienstraße 5
-D-99423 Weimar
+Herausgeber<br />
+Vertr.-Prof. Jason M. Reizner<br />
+Bauhaus Form + Function Lab<br />
+Bauhaus-Universität Weimar<br />
+Marienstraße 5<br />
+D-99423 Weimar<br />
 <br>
-Telefon: +49 (0) 3643 58 38 05
-jason.reizner [ät] uni-weimar [punkt] de
-https://www.uni-weimar.de/bffl
+Telefon: +49 (0) 3643 58 38 05<br />
+jason.reizner [ät] uni-weimar [punkt] de<br />
+https://www.uni-weimar.de/bffl<br />
 <br>
 Die Bauhaus-Universität Weimar ist eine rechtsfähige Körperschaft des öffentlichen Rechts und staatliche Einrichtung. Sie wird durch den Präsidenten der Universität gesetzlich vertreten.
 <br>
