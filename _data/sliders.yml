@@ -37,7 +37,7 @@
     height: "'auto'"
     effect: "'fade'"
     interval: 3000
-    transitionDuration: 500
+    transitionDuration: 300
 
 - selector: tdv_slider
   captions: false
@@ -56,7 +56,7 @@
     height: "'auto'"
     effect: "'fade'"
     interval: 5000
-    transitionDuration: 500
+    transitionDuration: 300
 
 - selector: pv_slider
   captions: false
@@ -75,4 +75,4 @@
     height: "'auto'"
     effect: "'fade'"
     interval: 5000
-    transitionDuration: 500
+    transitionDuration: 300
