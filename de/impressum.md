@@ -8,7 +8,7 @@ D-99423 Weimar<br />
 <br>
 Telefon: +49 (0) 3643 58 38 05<br />
 jason.reizner [ät] uni-weimar [punkt] de<br />
-https://www.uni-weimar.de/bffl<br />
+[https://www.uni-weimar.de/bffl](https://www.uni-weimar.de/bffl)<br />
 <br>
 Die Bauhaus-Universität Weimar ist eine rechtsfähige Körperschaft des öffentlichen Rechts und staatliche Einrichtung. Sie wird durch den Präsidenten der Universität gesetzlich vertreten.
 <br>
