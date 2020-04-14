@@ -28,6 +28,7 @@
   settings:
     height: "'auto'"
     effect: "'fade'"
+    interval: 5
 
 - selector: tdv_slider
   captions: false
@@ -45,6 +46,7 @@
   settings:
     height: "'auto'"
     effect: "'fade'"
+    interval: 0
 
 - selector: pv_slider
   captions: false
@@ -62,3 +64,4 @@
   settings:
     height: "'auto'"
     effect: "'fade'"
+    interval: 0
