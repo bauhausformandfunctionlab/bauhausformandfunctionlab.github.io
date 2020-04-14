@@ -29,7 +29,7 @@ Dieses [Visier](https://3dverkstan.se/protective-visor/){:target="_blank" rel="n
 {% include slider.html selector="tdv_slider" %}
 <br />
 [Produktionsdateien](https://github.com/bauhausformandfunctionlab/covid19/tree/master/3DVerkstanVisor){:target="_blank" rel="noopener"}
-
+<br /><br />
 ### Prusa RC1/2/3 Visor
 Dieses [Visier](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc3){:target="_blank" rel="noopener"} besteht aus zwei 3D-gedruckten Rahmenteilen und einem lasergeschnittenen PETG-Schild. Dieses robuste Design hat zwar eine vorläufige Zulassung für die medizinische Verwendung in der Tschechischen Republik, ist aber ressourcenintensiver in der Herstellung, da es etwa drei Stunden Druckzeit (Prusa Mk3, 0,4 mm) und ~60 Gramm PETG-Filament pro Einheit benötigt. Das Visier ist in der Produktion stapelbar und benötigt dadurch weniger manuelle Eingriffe.
 
