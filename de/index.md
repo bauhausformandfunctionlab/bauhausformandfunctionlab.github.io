@@ -1,6 +1,8 @@
 ---
 image_sliders:
+  - blcv_slider
   - tdv_slider
+  - pv_slider
 ---
 
 ##### [English version here](https://bffl.io)
@@ -15,6 +17,8 @@ Das Kleingedruckte: Bitte beachten Sie, dass die untenstehenden Designs urheberr
 <br />
 Dieses Visier wurde von [Prof. Andreas Mühlenberend](https://www.uni-weimar.de/en/art-and-design/structure/disciplines-staff/produktdesign-product-design/prof-andreas-muehlenberend/){:target="_blank" rel="noopener"} und [Vertr.-Prof. Jason Reizner](https://www.uni-weimar.de/de/kunst-und-gestaltung/professuren/interface-design/){:target="_blank" rel="noopener"} gemeinsam entwickelt und besteht aus zwei Komponenten, die aus einem einzigen Material (transparenter 0,5 mm PETG-Film) lasergeschnitten wurden. Als universelles Design ("one size fits all") kommt es ohne 3D-Druck oder Gummibänder aus. Der Produktionsdurchsatz ist im Vergleich zum 3D-Druck wesentlich höher und gewährleistet eine maximale Ausnutzung des Materials: Acht Visiere können aus einer 1000x600mm großen PETG-Folie in weniger als fünf Minuten geschnitten werden. Vorläufige Tests zeigen, dass PETG gegen Desinfektionsmittel wie Isopropylalkohol, quaternäre Ammoniumverbindungen und Wasserstoffperoxidlösung beständig ist.
 
+{% include slider.html selector="blcv_slider" %}
+
 [Produktionsdateien](https://github.com/bauhausformandfunctionlab/covid19/tree/master/BauhausLaserCutVisor){:target="_blank" rel="noopener"}
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Dieses Design ist unter <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a> lizenziert.
@@ -28,6 +32,8 @@ Dieses [Visier](https://3dverkstan.se/protective-visor/){:target="_blank" rel="n
 
 ### Prusa RC1/2/3 Visor
 Dieses [Visier](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc3){:target="_blank" rel="noopener"} besteht aus zwei 3D-gedruckten Rahmenteilen und einem lasergeschnittenen PETG-Schild. Dieses robuste Design hat zwar eine vorläufige Zulassung für die medizinische Verwendung in der Tschechischen Republik, ist aber ressourcenintensiver in der Herstellung, da es etwa drei Stunden Druckzeit (Prusa Mk3, 0,4 mm) und ~60 Gramm PETG-Filament pro Einheit benötigt. Das Visier ist in der Produktion stapelbar und benötigt dadurch weniger manuelle Eingriffe.
+
+{% include slider.html selector="pv_slider" %}
 
 [Produktionsdateien](https://github.com/bauhausformandfunctionlab/covid19/tree/master/PrusaVisor){:target="_blank" rel="noopener"}
 

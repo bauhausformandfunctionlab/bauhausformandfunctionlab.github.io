@@ -1,13 +1,64 @@
-# example slider
+- selector: blcv_slider
+  captions: false
+  images:
+    - src: /assets/images/blcv/1.blcv.jpg
+      alt: Bauhaus Laser Cut Visor 1
+    - src: /assets/images/blcv/2.blcv.jpg
+      alt: Bauhaus Laser Cut Visor 2
+    - src: /assets/images/blcv/3.blcv.jpg
+      alt: Bauhaus Laser Cut Visor 3
+    - src: /assets/images/blcv/4.blcv.jpg
+      alt: Bauhaus Laser Cut Visor 4
+    - src: /assets/images/blcv/5.blcv.jpg
+      alt: Bauhaus Laser Cut Visor 5
+    - src: /assets/images/blcv/6.blcv.jpg
+      alt: Bauhaus Laser Cut Visor 6
+    - src: /assets/images/blcv/7.blcv.jpg
+      alt: Bauhaus Laser Cut Visor 7
+    - src: /assets/images/blcv/8.blcv.jpg
+      alt: Bauhaus Laser Cut Visor 8
+    - src: /assets/images/blcv/9.blcv.jpg
+      alt: Bauhaus Laser Cut Visor 9
+    - src: /assets/images/blcv/10.blcv.jpg
+      alt: Bauhaus Laser Cut Visor 10
+    - src: /assets/images/blcv/11.blcv.jpg
+      alt: Bauhaus Laser Cut Visor 11
+    - src: /assets/images/blcv/12.blcv.jpg
+      alt: Bauhaus Laser Cut Visor 12
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
 - selector: tdv_slider
   captions: false
   images:
-    - src: /assets/images/1.3dv.jpg
+    - src: /assets/images/3dv/1.3dv.jpg
       alt: 3DVerkstan Visor 1
-    - src: /assets/images/2.3dv.jpg
+    - src: /assets/images/3dv/2.3dv.jpg
       alt: 3DVerkstan Visor 2
-    - src: /assets/images/3.3dv.jpg
+    - src: /assets/images/3dv/3.3dv.jpg
       alt: 3DVerkstan Visor 3
+    - src: /assets/images/3dv/4.3dv.jpg
+      alt: 3DVerkstan Visor 4
+    - src: /assets/images/3dv/5.3dv.jpg
+      alt: 3DVerkstan Visor 5
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
+- selector: pv_slider
+  captions: false
+  images:
+    - src: /assets/images/pv/1.pv.jpg
+      alt: Prusa Visor 1
+    - src: /assets/images/pv/2.pv.jpg
+      alt: Prusa Visor 2
+    - src: /assets/images/pv/3.pv.jpg
+      alt: Prusa Visor 3
+    - src: /assets/images/pv/4.pv.jpg
+      alt: Prusa Visor 4
+    - src: /assets/images/pv/5.pv.jpg
+      alt: Prusa Visor 5
   settings:
     height: "'auto'"
     effect: "'fade'"
