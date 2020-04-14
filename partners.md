@@ -1,4 +1,4 @@
-## Partners &amp; Collaborators / <br />*Partners &amp; Kollaborateure*
+## Partners &amp; Collaborators / <br />*Partner &amp; Kollaborateure*
 <br /><br />
 **Professur Interface Design / *Professorship of Interface Design***<br />
 **Bauhaus-Universität Weimar**<br />
