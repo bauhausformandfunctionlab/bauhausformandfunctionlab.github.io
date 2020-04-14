@@ -64,7 +64,6 @@
 
 body {
  background-color:#fff;
- padding:50px;
  font:16px/1.5 "Barlow", "Helvetica Neue", Helvetica, Arial, sans-serif;
  color:#000000;
  font-weight:400;
@@ -122,6 +121,6 @@ a:hover small {
 @media print, screen and (max-width: 720px) {
  body {
   word-wrap:normal;
-  padding: 20px;
+  padding: 10px;
  }
 }
