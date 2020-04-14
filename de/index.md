@@ -1,6 +1,6 @@
 ---
 image_sliders:
-  - 3dv_slider
+  - tdv_slider
 ---
 
 ##### [English version here](https://bffl.io)
@@ -22,7 +22,7 @@ Dieses Visier wurde von [Prof. Andreas Mühlenberend](https://www.uni-weimar.de/
 ### 3DVerkstan-Visier
 Dieses [Visier](https://3dverkstan.se/protective-visor/){:target="_blank" rel="noopener"} ist unser derzeitiger Schwerpunkt für die lokale Produktion. Dieses Design kann so [optimiert](https://3dverkstan.se/protective-visor/protective-visor-print-guide/){:target="_blank" rel="noopener"} werden, dass es in weniger als 40 Minuten (Prusa Mk3, 0,4 mm) oder 25 Minuten (Prusa Mk3, 0,8 mm) gedruckt werden kann und nur 16 g Filament pro Einheit benötigt. Wir stellen diese derzeit aus PETG her, obwohl bei Bedarf auch PLA oder ABS verwendet werden können. Die Frontblende kann aus verschiedenen Materialien hergestellt werden, unter Anderem auch aus handelsüblichen A4-Klarsichtfolien, und erfordert nicht den Einsatz eines Lasercutters.
 
-{% include slider.html selector="3dv_slider" %}
+{% include slider.html selector="tdv_slider" %}
 
 [Produktionsdateien](https://github.com/bauhausformandfunctionlab/covid19/tree/master/3DVerkstanVisor){:target="_blank" rel="noopener"}
 
