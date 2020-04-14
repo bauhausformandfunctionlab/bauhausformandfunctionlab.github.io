@@ -1,8 +1,4 @@
----
-title: NEH Institute materials
----
-
-## Partners &amp; Collaborators /<br />*Partners &amp; Kollaborateure*
+## Partners &amp; Collaborators / <br />*Partners &amp; Kollaborateure*
 <br /><br />
 **Professur Interface Design / *Professorship of Interface Design***<br />
 **Bauhaus-Universität Weimar**<br />
