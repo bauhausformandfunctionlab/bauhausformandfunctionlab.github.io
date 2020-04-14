@@ -1,13 +1,13 @@
 # example slider
-- selector: example_slider
-  captions: true
+- selector: 3dv_slider
+  captions: false
   images:
-    - src: /img/1.jpg
-      alt: image one
-    - src: /img/2.jpg
-      alt: image two
-    - src: /img/3.jpg
-      alt: image three
+    - src: /assets/images/1.3dv.jpg
+      alt: 3DVerkstan Visor 1
+    - src: /assets/images/1.3dv.jpg
+      alt: 3DVerkstan Visor 2
+    - src: /assets/images/1.3dv.jpg
+      alt: 3DVerkstan Visor 3
   settings:
     height: "'auto'"
     effect: "'fade'"
