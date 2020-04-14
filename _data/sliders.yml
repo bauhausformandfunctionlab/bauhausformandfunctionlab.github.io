@@ -4,9 +4,9 @@
   images:
     - src: /assets/images/1.3dv.jpg
       alt: 3DVerkstan Visor 1
-    - src: /assets/images/1.3dv.jpg
+    - src: /assets/images/2.3dv.jpg
       alt: 3DVerkstan Visor 2
-    - src: /assets/images/1.3dv.jpg
+    - src: /assets/images/3.3dv.jpg
       alt: 3DVerkstan Visor 3
   settings:
     height: "'auto'"
