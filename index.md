@@ -31,7 +31,7 @@ This [visor](https://3dverkstan.se/protective-visor/){:target="_blank" rel="noop
 [Production Files: 3DVerkstan Visor](https://github.com/bauhausformandfunctionlab/covid19/tree/master/3DVerkstanVisor){:target="_blank" rel="noopener"}
 <br /><br />
 ### Prusa RC1/2/3 Visor
-This [visor](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc3){:target="_blank" rel="noopener"} consists of two 3D-printed frame components and a lasercut PETG shield. While this robust design has a preliminary approval for medical use in the Czech Republic, it is more resource intensive to produce, requiring roughly three hours print time (Prusa Mk3, 0.4mm) and ~60 grams of PETG filament per unit. Production stacking has been demonstrated to work with this design.
+This [visor](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc3){:target="_blank" rel="noopener"} consists of two 3D-printed frame components and a lasercut PETG shield. While this robust design has a preliminary approval for medical use in the Czech Republic, it is more resource intensive to produce, requiring roughly three hours print time (Prusa Mk3, 0.4mm Nozzle) and ~60 grams of PETG filament per unit. Production stacking has been demonstrated to work with this design, reducing the need for manual intervention.
 
 {% include slider.html selector="pv_slider" %}
 <br />
@@ -45,4 +45,4 @@ This [formula](https://www.who.int/gpsc/5may/Guide_to_Local_Production.pdf){:tar
 ### Contact
 Questions? Comments? Something to share?<br />
 Get in touch with us at jason.reizner \[at] uni-weimar.de<br />
-Share your photos of the Bauhaus Laser Cut Visor on Social Media with the hashtags *#bauhausvisier* or *#bauhausvisor*
+Share your photos of the Bauhaus Laser Cut Visor on Social Media with the hashtags **#bauhausvisier** or **#bauhausvisor**
