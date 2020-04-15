@@ -46,4 +46,4 @@ This [formula](https://www.who.int/gpsc/5may/Guide_to_Local_Production.pdf){:tar
 ### Contact
 Questions? Comments? Something to share?<br />
 Get in touch with us at jason.reizner \[at] uni-weimar.de<br />
-Share your photos of the Bauhaus Laser Cut Visor on Social Media with the hashtags **#bauhausvisier** or **#bauhausvisor**
+Share your photos of the Bauhaus Laser Cut Visor on social media with the hashtags **#bauhausvisier** or **#bauhausvisor**
