@@ -1,6 +1,6 @@
 ## Partners &amp; Collaborators / <br />*Partner &amp; Kollaborateure*
 <br /><br />
-**[Professorship of Interface Design](https://www.uni-weimar.de/de/kunst-und-gestaltung/professuren/interface-design/{:target="_blank" rel="noopener"})** / ***[Professur Interface Design](https://www.uni-weimar.de/de/kunst-und-gestaltung/professuren/interface-design/){:target="_blank" rel="noopener"}***<br />
+**[Professorship of Interface Design](https://www.uni-weimar.de/de/kunst-und-gestaltung/professuren/interface-design/){:target="_blank" rel="noopener"}** / ***[Professur Interface Design](https://www.uni-weimar.de/de/kunst-und-gestaltung/professuren/interface-design/){:target="_blank" rel="noopener"}***<br />
 **Bauhaus-Universität Weimar**<br />
 Vertr.-Prof. Jason M. Reizner<br />
 Darko Velazquez, MFA, Dipl.-Künstler<br />
@@ -11,7 +11,7 @@ Clemens Wegener, MSc, BA<br />
 **Bauhaus-Universität Weimar**<br />
 Prof. Andreas Mühlenberend<br />
 <br />
-**[Research Project ReThiCare](Research Project ReThiCare){:target="_blank" rel="noopener"}**<br />
+**[Research Project ReThiCare](http://www.rethicare.info/){:target="_blank" rel="noopener"}**<br />
 **Professur Interaction Design** / ***Professorship of Interaction Design***<br />
 **Bauhaus-Universität Weimar**<br />
 Kristian Gohlke, M.Sc. Digital Media<br />
