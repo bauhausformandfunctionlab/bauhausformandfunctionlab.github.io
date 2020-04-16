@@ -21,5 +21,3 @@ Kristian Gohlke, M.Sc. Digital Media<br />
 **Hochschule Coburg**<br />
 Prof. Michael Markert<br />
 <br />
-**[Creapolis](https://www.creapolis-coburg.de/){:target="_blank" rel="noopener"}**<br />
-**Hochschule Coburg**<br />
