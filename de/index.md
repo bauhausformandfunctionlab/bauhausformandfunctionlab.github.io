@@ -50,4 +50,4 @@ Diese [Formel](https://www.who.int/gpsc/5may/Guide_to_Local_Production.pdf){:tar
 ### Kontakt
 Haben Sie Fragen? Kommentare? Etwas zum Teilen?<br />
 Nehmen Sie Kontakt mit uns auf! jason.reizner [at] uni-weimar.de<br />
-Teilen Sie Ihre Fotos vom BauhausUniVisor auf Social-Media-Kanälen unter Verwendung der Hashtags **#BauhausUniVisor**<br />
+Teilen Sie Ihre Fotos vom BauhausUniVisor auf Social-Media-Kanälen unter Verwendung des Hashtags **#BauhausUniVisor**<br />

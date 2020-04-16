@@ -48,4 +48,4 @@ This [formula](https://www.who.int/gpsc/5may/Guide_to_Local_Production.pdf){:tar
 ### Contact
 Questions? Comments? Something to share?<br />
 Get in touch with us at jason.reizner \[at] uni-weimar.de<br />
-Share your photos of the BauhausUniVisor on social media with the hashtags **#BauhausUniVisor**
+Share your photos of the BauhausUniVisor on social media with the hashtag **#BauhausUniVisor**
