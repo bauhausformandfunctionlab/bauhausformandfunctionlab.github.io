@@ -12,7 +12,7 @@ Clemens Wegener, MSc, BA<br />
 Prof. Andreas Mühlenberend<br />
 <br />
 **[Research Project ReThiCare](http://www.rethicare.info/){:target="_blank" rel="noopener"}**<br />
-**Professur Interaction Design** / ***Professorship of Interaction Design***<br />
+**Professorship of Interaction Design** / ***Professur Interaction Design***<br />
 **Bauhaus-Universität Weimar**<br />
 Kristian Gohlke, M.Sc. Digital Media<br />
 <br />
