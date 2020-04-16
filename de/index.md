@@ -21,8 +21,8 @@ Dieses Visier wurde von [Prof. Andreas Mühlenberend](https://www.uni-weimar.de/
 
 <div class="embed-youtube"><iframe src="https://www.youtube-nocookie.com/embed/kSDAMLoUkxs?hd=1&modestbranding=1&showinfo=0&autohide=1&controls=1&hl=de&cc_load_policy=1&cc_lang_pref=de" frameborder="0" allow="accelerometer; autoplay=0; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <br />
-[Produktionsdateien: Bauhaus Lasercut Visier](https://github.com/bauhausformandfunctionlab/covid19/tree/master/BauhausLaserCutVisor){:target="_blank" rel="noopener"}<br />
-[Montageanleitung: Bauhaus Lasercut Visier ](https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausLaserCutVisor/BLCV_Assembly_Guide.pdf){:target="_blank" rel="noopener"}<br />
+[Produktionsdateien: BauhausUniVisor](https://github.com/bauhausformandfunctionlab/covid19/tree/master/BauhausUniVisor){:target="_blank" rel="noopener"}<br />
+[Montageanleitung: BauhausUniVisor](https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausUniVisor/BauhausUniVisor_Assembly_Guide.pdf){:target="_blank" rel="noopener"}<br />
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Dieses Design ist unter der <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a> lizenziert.
 <br /><br />

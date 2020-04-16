@@ -20,8 +20,8 @@ Co-developed by [Prof. Andreas Mühlenberend](https://www.uni-weimar.de/en/art-a
 
 <div class="embed-youtube"><iframe src="https://www.youtube-nocookie.com/embed/kSDAMLoUkxs?hd=1&modestbranding=1&showinfo=0&autohide=1&controls=1&hl=en&cc_load_policy=1&cc_lang_pref=en" frameborder="0" allow="accelerometer; autoplay=0; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <br />
-[Production Files: Bauhaus Laser Cut Visor](https://github.com/bauhausformandfunctionlab/covid19/tree/master/BauhausLaserCutVisor){:target="_blank" rel="noopener"}<br />
-[Assembly Guide: Bauhaus Lasercut Visor](https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausLaserCutVisor/BLCV_Assembly_Guide.pdf){:target="_blank" rel="noopener"}<br />
+[Production Files: BauhausUniVisor](https://github.com/bauhausformandfunctionlab/covid19/tree/master/BauhausUniVisor){:target="_blank" rel="noopener"}<br />
+[Assembly Guide: BauhausUniVisor](https://github.com/bauhausformandfunctionlab/covid19/blob/master/BauhausUniVisor/BauhausUniVisor_Assembly_Guide.pdf){:target="_blank" rel="noopener"}<br />
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 <br /><br />
