@@ -12,7 +12,8 @@ As the world works together to overcome the unprecedented challenges brought on 
 
 The Fine Print: We strongly urge everyone to adhere to the strictest hygiene measures and to consult with local authorities before beginning production or distribution. While these designs are being shared in good faith, the BFFL and Bauhaus-Universität Weimar do not guarantee the suitability for use, merchantability, or fitness for particular purpose of the designs listed below, and do not assume liability arising from their production or use. These designs are presented as research for individual experimentation and are not intended for production or use as medical products. The production and use of these designs is at your own risk. Please be aware that designs below are the property of their respective creators and are protected by various open source licenses. Feel free to share the resources linked here with other partners and institutions.
 <br /><br />
-### Bauhaus Laser Cut Visor
+### BauhausUniVisor<br />
+One material. One process. One size.<br />
 {% include slider.html selector="blcv_slider" %}
 <br />
 Co-developed by [Prof. Andreas Mühlenberend](https://www.uni-weimar.de/en/art-and-design/structure/disciplines-staff/produktdesign-product-design/prof-andreas-muehlenberend/){:target="_blank" rel="noopener"} and [Vertr.-Prof. Jason Reizner](https://www.uni-weimar.de/de/kunst-und-gestaltung/professuren/interface-design/){:target="_blank" rel="noopener"}, this visor is constructed from two components laser cut from a single material (transparent 0.5mm PETG film), and is presented as a universal design ('one size fits all') requiring no 3D printing or elastics. This design represents a vast improvement in production throughput compared with 3D printing, and ensures maximum usage of material: Eight visors can be cut from 1000x600mm PETG sheet in under five minutes.  Preliminary tests indicate that PETG is resistant to disinfection agents including isopropyl alcohol, quaternary ammonium compounds and hydrogen peroxide solution. *Many thanks to [Kristian Gohlke](https://www.uni-weimar.de/de/kunst-und-gestaltung/struktur/lehrgebiete-personen/produktdesign/kristian-gohlke-msc-digital-media/){:target="_blank" rel="noopener"} and [Darko Velazquez](https://www.uni-weimar.de/de/kunst-und-gestaltung/struktur/lehrgebiete-personen/medienkunstmediengestaltung/jesus-velazquez/){:target="_blank" rel="noopener"} for their invaluable support with development, process optimization and communication.*
@@ -46,4 +47,4 @@ This [formula](https://www.who.int/gpsc/5may/Guide_to_Local_Production.pdf){:tar
 ### Contact
 Questions? Comments? Something to share?<br />
 Get in touch with us at jason.reizner \[at] uni-weimar.de<br />
-Share your photos of the Bauhaus Laser Cut Visor on social media with the hashtags **#bauhausvisier** or **#bauhausvisor**
+Share your photos of the BauhausUniVisor on social media with the hashtags **#BauhausUniVisor**

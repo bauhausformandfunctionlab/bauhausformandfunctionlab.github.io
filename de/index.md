@@ -13,7 +13,8 @@ Während die Menschen in der Welt zusammenstehen, um gemeinsam die beispiellosen
 Das Kleingedruckte vorab: Wir fordern nachdrücklich alle dazu auf, die von Behörden, Betrieben und Mitmenschen empfohlenen Hygienemaßnahmen strengstens einzuhalten. Obwohl die unten aufgeführten Entwürfe mit bestem Wissen und Gewissen weitergegeben werden, garantieren das BFFL und die Bauhaus-Universität Weimar nicht die Gebrauchstauglichkeit, Marktgängigkeit oder Eignung für einen bestimmten Zweck und übernehmen keine Haftung, die sich aus ihrer Herstellung oder Verwendung ergibt. Insbesondere stellen die Entwürfe als Studien zur individuellen Erprobung der Fabrikation explizit keine Medizinprodukte dar. Jegliche Nutzung oder sonstiger Gebrauch erfolgt auf eigene Gefahr durch die Nutzer. Bitte beraten Sie sich vor Beginn der Produktion und der Verteilung von Material auch mit den örtlichen Behörden und Institutionen.
 Bitte beachten Sie, dass die untenstehenden Designs unter verschiedenen Open-Source Lizenzen urheberrechtlich geschützt sind und nur unter den jeweiligen Lizenzbedingungen verbreitet und hergestellt werden dürfen. Bitte teilen sie die hier verlinkten Ressourcen gerne auch mit Partnern und Einrichtungen die über entsprechende Produktionsmittel verfügen.
 <br /><br />
-### Bauhaus Lasercut Visier
+### BauhausUniVisor<br />
+One material. One process. One size.<br />
 {% include slider.html selector="blcv_slider" %}
 <br />
 Dieses Visier wurde von [Prof. Andreas Mühlenberend](https://www.uni-weimar.de/en/art-and-design/structure/disciplines-staff/produktdesign-product-design/prof-andreas-muehlenberend/){:target="_blank" rel="noopener"} und [Vertr.-Prof. Jason Reizner](https://www.uni-weimar.de/de/kunst-und-gestaltung/professuren/interface-design/){:target="_blank" rel="noopener"} gemeinsam entwickelt und besteht aus zwei (bzw. drei) Kunststoffteilen, die aus einem einzigen Material (transparenter 0,5 mm PET- oder PETG-Film) mit dem Lasercutter hergestellt werden können. Als universelles Design („one size fits all“) kommt es ohne Teile aus dem 3D-Drucker oder zusätzliche Gummibänder aus. Der Produktionsdurchsatz ist im Vergleich zum 3D-Druck wesentlich höher und gewährleistet eine maximale Ausnutzung des Materials: Acht Visiere können aus einer 1000x600mm großen PETG-Folie in weniger als fünf Minuten geschnitten werden.Darüber hinaus ist der Entwurf prinzipiell auch für die Produktion in Roll-to-Roll Prozessen geeignet. Vorläufige Tests zeigen, dass PETG gegen Desinfektionsmittel wie Isopropylalkohol, quaternäre Ammoniumverbindungen und Wasserstoffperoxidlösung beständig ist. *Vielen Dank an [Kristian Gohlke](https://www.uni-weimar.de/de/kunst-und-gestaltung/struktur/lehrgebiete-personen/produktdesign/kristian-gohlke-msc-digital-media/){:target="_blank" rel="noopener"} und [Darko Velazquez](https://www.uni-weimar.de/de/kunst-und-gestaltung/struktur/lehrgebiete-personen/medienkunstmediengestaltung/jesus-velazquez/){:target="_blank" rel="noopener"} für ihre unschätzbare Hilfe in der Weiterentwicklung, Prozessoptimierung und Kommunikation.*
@@ -33,7 +34,7 @@ Dieses [Visier](https://3dverkstan.se/protective-visor/){:target="_blank" rel="n
 [Produktionsdateien: 3DVerkstan Visor](https://github.com/bauhausformandfunctionlab/covid19/tree/master/3DVerkstanVisor){:target="_blank" rel="noopener"}
 <br /><br />
 ### Prusa RC1/2/3 Visier
-Dieses [Visier](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc3){:target="_blank" rel="noopener"} besteht aus zwei 3D-gedruckten Rahmenteilen und einem lasergeschnittenen PETG-Schild. 
+Dieses [Visier](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc3){:target="_blank" rel="noopener"} besteht aus zwei 3D-gedruckten Rahmenteilen und einem lasergeschnittenen PETG-Schild.
 Das robuste Design hat eine vorläufige Zulassung für die medizinische Verwendung in der Tschechischen Republik, ist aber ressourcenintensiver in der Herstellung, da die Druckzeit etwa drei Stunden beträgt (Prusa MK3, 0,4mm Nozzle) und rund 60 Gramm PETG-Filament pro Einheit benötigt werden. Mehrere Visierteile sind auf dem Druckbett in Stapeln produzierbar und benötigen dadurch in der Herstellung weniger manuelle Eingriffe als beim Einzeldruck.
 
 {% include slider.html selector="pv_slider" %}
@@ -47,6 +48,5 @@ Diese [Formel](https://www.who.int/gpsc/5may/Guide_to_Local_Production.pdf){:tar
 <br /><br />
 ### Kontakt
 Haben Sie Fragen? Kommentare? Etwas zum Teilen?<br />
-Nehmen Sie Kontakt mit uns auf! jason.reizner [at] uni-weimar.de<br /> 
-Teilen Sie Ihre Fotos vom Bauhaus Lasercut Visier auf Social-Media-Kanälen unter Verwendung der Hashtags **#bauhausvisier** oder **#bauhausvisor**<br />
-
+Nehmen Sie Kontakt mit uns auf! jason.reizner [at] uni-weimar.de<br />
+Teilen Sie Ihre Fotos vom BauhausUniVisor auf Social-Media-Kanälen unter Verwendung der Hashtags **#BauhausUniVisor**<br />
