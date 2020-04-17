@@ -20,4 +20,7 @@ Kristian Gohlke, M.Sc. Digital Media<br />
 **Faculty of Design** / ***Fakultät Design***<br />
 **Hochschule Coburg**<br />
 Prof. Michael Markert<br />
+Prof. Dr. Holger Falter<br />
+Christian Licht, Werkstattmeister<br />
+Dipl.-Produktdesigner Ralph Neißer<br />
 <br />
