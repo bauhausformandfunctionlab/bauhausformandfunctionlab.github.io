@@ -1,25 +1,25 @@
 - selector: blcv_slider
   captions: false
   images:
-    - src: /assets/images/buv/buv-montag-10.jpg
+    - src: /assets/images/buv/buv-montage-10.jpg
       alt: BauhausUniVisor
-    - src: /assets/images/buv/buv-montag-01.jpg
+    - src: /assets/images/buv/buv-montage-01.jpg
       alt: BauhausUniVisor Assembly 1
-    - src: /assets/images/buv/buv-montag-02.jpg
+    - src: /assets/images/buv/buv-montage-02.jpg
       alt: BauhausUniVisor Assembly 2
-    - src: /assets/images/buv/buv-montag-03.jpg
+    - src: /assets/images/buv/buv-montage-03.jpg
       alt: BauhausUniVisor Assembly 3
-    - src: /assets/images/buv/buv-montag-04.jpg
+    - src: /assets/images/buv/buv-montage-04.jpg
       alt: BauhausUniVisor Assembly 4
-    - src: /assets/images/buv/buv-montag-05.jpg
+    - src: /assets/images/buv/buv-montage-05.jpg
       alt: BauhausUniVisor Assembly 5
-    - src: /assets/images/buv/buv-montag-06.jpg
+    - src: /assets/images/buv/buv-montage-06.jpg
       alt: BauhausUniVisor Assembly 6
-    - src: /assets/images/buv/buv-montag-07.jpg
+    - src: /assets/images/buv/buv-montage-07.jpg
       alt: BauhausUniVisor Assembly 7
-    - src: /assets/images/buv/buv-montag-08.jpg
+    - src: /assets/images/buv/buv-montage-08.jpg
       alt: BauhausUniVisor Assembly 8
-    - src: /assets/images/buv/buv-montag-09.jpg
+    - src: /assets/images/buv/buv-montage-09.jpg
       alt: BauhausUniVisor Assembly 9
   settings:
     height: "'auto'"
