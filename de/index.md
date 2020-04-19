@@ -27,14 +27,14 @@ Dieses Visier wurde von [Prof. Andreas Mühlenberend](https://www.uni-weimar.de/
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Dieses Design ist unter der <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a> lizenziert.
 <br /><br />
-### 3DVerkstan-Visier
+### Produktionsalternative: 3DVerkstan-Visier
 Dieses [Visier](https://3dverkstan.se/protective-visor/){:target="_blank" rel="noopener"} eignet sich für die lokale Produktion wenn kein Lasercutter für PETG Material zur Verfügung steht. Das Design kann so optimiert werden, dass es in weniger als 40 Minuten (Prusa MK3 mit 0,4mm Nozzle) oder in 25 Minuten (Prusa MK3 mit 0,8mm Nozzle) gedruckt werden kann und nur 16g Filament pro Stück benötigt. Wir haben im 3D-Druck mit PETG gute Ergebnisse erzielt. Bei Bedarf kann auch mit PLA oder ABS gedruckt werden. Die Frontblende kann – auch manuell – aus verschiedenen Materialien hergestellt werden, unter anderem auch aus handelsüblichen DIN A4-Klarsichtfolien.
 
 {% include slider.html selector="tdv_slider" %}
 <br />
 [Produktionsdateien: 3DVerkstan Visor](https://github.com/bauhausformandfunctionlab/covid19/tree/master/3DVerkstanVisor){:target="_blank" rel="noopener"}
 <br /><br />
-### Prusa RC1/2/3 Visier
+### Produktionsalternative: Prusa RC1/2/3 Visier
 Dieses [Visier](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc3){:target="_blank" rel="noopener"} besteht aus zwei 3D-gedruckten Rahmenteilen und einem lasergeschnittenen PETG-Schild.
 Das robuste Design hat eine vorläufige Zulassung für die medizinische Verwendung in der Tschechischen Republik, ist aber ressourcenintensiver in der Herstellung, da die Druckzeit etwa drei Stunden beträgt (Prusa MK3, 0,4mm Nozzle) und rund 60 Gramm PETG-Filament pro Einheit benötigt werden. Mehrere Visierteile sind auf dem Druckbett in Stapeln produzierbar und benötigen dadurch in der Herstellung weniger manuelle Eingriffe als beim Einzeldruck.
 

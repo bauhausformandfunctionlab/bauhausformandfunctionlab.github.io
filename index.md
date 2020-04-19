@@ -26,14 +26,14 @@ Co-developed by [Prof. Andreas Mühlenberend](https://www.uni-weimar.de/en/art-a
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 <br /><br />
-### 3DVerkstan Visor
+### Production Alternative: 3DVerkstan Visor
 This [visor](https://3dverkstan.se/protective-visor/){:target="_blank" rel="noopener"} is our current focus for local production where 0.5mm PETG film or a laser cutter may not be available. This design can be [optimized](https://3dverkstan.se/protective-visor/protective-visor-print-guide/){:target="_blank" rel="noopener"} to print in under 40 minutes (Prusa Mk3, 0.4mm Nozzle) or 25 minutes (Prusa Mk3, 0.8mm Nozzle) and requires only 16g of filament per unit. We are currently producing these from PETG, although PLA or ABS can also be used if necessary. The front shield can be produced from a variety of materials, including consumer A4-size transparency films, and does not require the use of a laser cutter.
 
 {% include slider.html selector="tdv_slider" %}
 <br />
 [Production Files: 3DVerkstan Visor](https://github.com/bauhausformandfunctionlab/covid19/tree/master/3DVerkstanVisor){:target="_blank" rel="noopener"}
 <br /><br />
-### Prusa RC1/2/3 Visor
+### Production Alternative: Prusa RC1/2/3 Visor
 This [visor](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc3){:target="_blank" rel="noopener"} consists of two 3D-printed frame components and a lasercut PETG shield. While this robust design has a preliminary approval for medical use in the Czech Republic, it is more resource intensive to produce, requiring roughly three hours print time (Prusa Mk3, 0.4mm Nozzle) and ~60 grams of PETG filament per unit. Production stacking has been demonstrated to work with this design, reducing the need for manual intervention.
 
 {% include slider.html selector="pv_slider" %}
