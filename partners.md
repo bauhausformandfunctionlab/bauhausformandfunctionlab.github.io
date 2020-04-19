@@ -16,11 +16,16 @@ Prof. Andreas Mühlenberend<br />
 **Bauhaus-Universität Weimar**<br />
 Kristian Gohlke, M.Sc. Digital Media<br />
 <br />
+**[Faculty of Art and Design](https://www.uni-weimar.de/en/art-and-design/start/){:target="_blank" rel="noopener"}** / ***[Fakultät Kunst und Gestaltung](https://www.uni-weimar.de/de/kunst-und-gestaltung/start/){:target="_blank" rel="noopener"}***<br />
+**Bauhaus-Universität Weimar**<br />
+Prof. Wolfgang Kissel, Dean / *Dekan*<br />
+Annett Habisreuther, Faculty Executive / *Geschäftsleitung*<br />
+<br />
 **[Integrated Product Design](https://www.integriertesproduktdesign-coburg.de/){:target="_blank" rel="noopener"}** / ***[Integriertes Produktdesign](https://www.integriertesproduktdesign-coburg.de/){:target="_blank" rel="noopener"}***<br />
 **Faculty of Design** / ***Fakultät Design***<br />
 **Hochschule Coburg**<br />
 Prof. Michael Markert<br />
 Prof. Dr. Holger Falter<br />
-Christian Licht, Werkstattmeister<br />
+Christian Licht, Workshop Director / *Werkstattmeister*<br />
 Dipl.-Produktdesigner Ralph Neißer<br />
 <br />
