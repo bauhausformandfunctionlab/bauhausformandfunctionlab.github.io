@@ -3,7 +3,7 @@
   images:
     - src: /assets/images/blcv/0d.blcv.jpg
       alt: BauhausUniVisor
-    - src: /assets/images/buv/buv-montage-10.jpg
+    - src: /assets/images/buv/buv1.jpg
       alt: BauhausUniVisor
     - src: /assets/images/buv/buv-montage-1.jpg
       alt: BauhausUniVisor Assembly 1
@@ -23,6 +23,8 @@
       alt: BauhausUniVisor Assembly 8
     - src: /assets/images/buv/buv-montage-9.jpg
       alt: BauhausUniVisor Assembly 9
+    - src: /assets/images/buv/buv-montage-10.jpg
+      alt: BauhausUniVisor Assembly 10
   settings:
     height: "'auto'"
     effect: "'fade'"
