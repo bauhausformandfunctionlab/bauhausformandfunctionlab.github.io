@@ -1,38 +1,26 @@
 - selector: blcv_slider
   captions: false
   images:
-    - src: /assets/images/blcv/0a.blcv.jpg
-      alt: Bauhaus Laser Cut Visor 0a
-    - src: /assets/images/blcv/0b.blcv.jpg
-      alt: Bauhaus Laser Cut Visor 0b
-    - src: /assets/images/blcv/0c.blcv.jpg
-      alt: Bauhaus Laser Cut Visor 0c
-    - src: /assets/images/blcv/0d.blcv.jpg
-      alt: Bauhaus Laser Cut Visor 0d
-    - src: /assets/images/blcv/1.blcv.jpg
-      alt: Bauhaus Laser Cut Visor 1
-    - src: /assets/images/blcv/2.blcv.jpg
-      alt: Bauhaus Laser Cut Visor 2
-    - src: /assets/images/blcv/3.blcv.jpg
-      alt: Bauhaus Laser Cut Visor 3
-    - src: /assets/images/blcv/4.blcv.jpg
-      alt: Bauhaus Laser Cut Visor 4
-    - src: /assets/images/blcv/5.blcv.jpg
-      alt: Bauhaus Laser Cut Visor 5
-    - src: /assets/images/blcv/6.blcv.jpg
-      alt: Bauhaus Laser Cut Visor 6
-    - src: /assets/images/blcv/7.blcv.jpg
-      alt: Bauhaus Laser Cut Visor 7
-    - src: /assets/images/blcv/8.blcv.jpg
-      alt: Bauhaus Laser Cut Visor 8
-    - src: /assets/images/blcv/9.blcv.jpg
-      alt: Bauhaus Laser Cut Visor 9
-    - src: /assets/images/blcv/10.blcv.jpg
-      alt: Bauhaus Laser Cut Visor 10
-    - src: /assets/images/blcv/11.blcv.jpg
-      alt: Bauhaus Laser Cut Visor 11
-    - src: /assets/images/blcv/12.blcv.jpg
-      alt: Bauhaus Laser Cut Visor 12
+    - src: /assets/images/buv/buv-montag-10.jpg
+      alt: BauhausUniVisor
+    - src: /assets/images/buv/buv-montag-01.jpg
+      alt: BauhausUniVisor Assembly 1
+    - src: /assets/images/buv/buv-montag-02.jpg
+      alt: BauhausUniVisor Assembly 2
+    - src: /assets/images/buv/buv-montag-03.jpg
+      alt: BauhausUniVisor Assembly 3
+    - src: /assets/images/buv/buv-montag-04.jpg
+      alt: BauhausUniVisor Assembly 4
+    - src: /assets/images/buv/buv-montag-05.jpg
+      alt: BauhausUniVisor Assembly 5
+    - src: /assets/images/buv/buv-montag-06.jpg
+      alt: BauhausUniVisor Assembly 6
+    - src: /assets/images/buv/buv-montag-07.jpg
+      alt: BauhausUniVisor Assembly 7
+    - src: /assets/images/buv/buv-montag-08.jpg
+      alt: BauhausUniVisor Assembly 8
+    - src: /assets/images/buv/buv-montag-09.jpg
+      alt: BauhausUniVisor Assembly 9
   settings:
     height: "'auto'"
     effect: "'fade'"
