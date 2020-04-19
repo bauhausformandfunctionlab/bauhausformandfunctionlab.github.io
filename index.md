@@ -41,7 +41,7 @@ This [visor](https://www.prusaprinters.org/prints/25857-prusa-protective-face-sh
 [Production Files: Prusa RC1/2/3 Visor](https://github.com/bauhausformandfunctionlab/covid19/tree/master/PrusaVisor){:target="_blank" rel="noopener"}
 <br /><br />
 ### WHO Hand Sanitizer Formula
-This [formula](https://www.who.int/gpsc/5may/Guide_to_Local_Production.pdf){:target="_blank" rel="noopener"} can be produced using isopropyl alcohol or ethanol, hydrogen peroxide and glycerol. BFFL staff have been using this hand sanitizer for nearly four weeks.
+This [formula](https://www.who.int/gpsc/5may/Guide_to_Local_Production.pdf){:target="_blank" rel="noopener"} can be produced using isopropyl alcohol or ethanol, hydrogen peroxide and glycerol. BFFL staff have been using this hand sanitizer for over four weeks.
 
 [Production Files: WHO Hand Sanitizer](https://github.com/bauhausformandfunctionlab/covid19/tree/master/WHOHandSanitizer){:target="_blank" rel="noopener"}
 <br /><br />
