@@ -5,9 +5,6 @@
       alt: Render by Christopher Kopic
   settings:
     height: "'auto'"
-    effect: "'fade'"
-    interval: 3000
-    transitionDuration: 700
 
 - selector: blcv_slider
   captions: false
