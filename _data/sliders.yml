@@ -7,7 +7,7 @@
     height: "'auto'"
 
 - selector: blcv_slider
-  captions: false
+  captions: true
   images:
     - src: /assets/images/blcv/0d.blcv.jpg
       alt: BauhausUniVisor
