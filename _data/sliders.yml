@@ -3,11 +3,13 @@
   images:
     - src: /assets/images/buv/1.kopic.jpg
       alt: Render by Christopher Kopic
+    - src: /assets/images/buv/2.kopic.jpg
+      alt: Render by Christopher Kopic
   settings:
     height: "'auto'"
 
 - selector: blcv_slider
-  captions: true
+  captions: false
   images:
     - src: /assets/images/blcv/0d.blcv.jpg
       alt: BauhausUniVisor
