@@ -5,9 +5,9 @@ image_sliders:
   - pv_slider
 ---
 
-{% include slider.html selector="top_slider" %} 
-
 ##### [hier zur deutschsprachigen Version](https://bffl.io/de)
+
+![BauhausUniVisor Render by Christopher Kopic](https://bffl.io/assets/images/buv/1.kopic.jpg)
 
 ## Community Resources for COVID-19
 As the world works together to overcome the unprecedented challenges brought on by the COVID-19 pandemic, the team at the [Bauhaus Form + Function Lab](https://uni-weimar.de/bffl){:target="_blank" rel="noopener"} is currently working with [partners and collaborators](http://bffl.io/partners) across the region and across Europe to share relevant designs and optimizations for personal hygiene equipment and other materials, which can be produced with the standard tools found in prototype labs, fablabs, makerspaces and individual studios in communities around the globe.
