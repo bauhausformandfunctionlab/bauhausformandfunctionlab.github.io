@@ -6,6 +6,7 @@ Vertr.-Prof. Jason M. Reizner<br />
 Darko Velazquez, MFA, Dipl.-Künstler<br />
 Brian Larson Clark, MFA<br />
 Clemens Wegener, MSc, BA<br />
+Melanie Birnschein, Administrative Coordinator / *Sekretariat*<br />
 <br />
 **[Professorship of Industrial Design](https://www.uni-weimar.de/en/art-and-design/structure/disciplines-staff/produktdesign-product-design/prof-andreas-muehlenberend/){:target="_blank" rel="noopener"}** / ***[Professur Industriedesign](https://www.uni-weimar.de/de/kunst-und-gestaltung/struktur/lehrgebiete-personen/produktdesign/prof-andreas-muehlenberend/){:target="_blank" rel="noopener"}***<br />
 **Bauhaus-Universität Weimar**<br />
