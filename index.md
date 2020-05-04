@@ -5,6 +5,8 @@ image_sliders:
   - pv_slider
 ---
 
+![Image](https://bffl.io/assets/images/buv/1.kopic.jpg)
+
 ##### [hier zur deutschsprachigen Version](https://bffl.io/de)
 
 ## Community Resources for COVID-19
