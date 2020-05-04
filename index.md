@@ -5,7 +5,7 @@ image_sliders:
   - pv_slider
 ---
 
-![Image](https://bffl.io/assets/images/buv/1.kopic.jpg)
+![BauhausUniVisor Render by Christopher Kopic](https://bffl.io/assets/images/buv/1.kopic.jpg)
 
 ##### [hier zur deutschsprachigen Version](https://bffl.io/de)
 
