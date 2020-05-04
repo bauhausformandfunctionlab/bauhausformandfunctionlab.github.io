@@ -5,7 +5,7 @@ image_sliders:
   - pv_slider
 ---
 
-{% include slider.html selector="top_slider"}
+{% include slider.html selector="top_slider" %}
 
 ##### [English version here](https://bffl.io)
 
