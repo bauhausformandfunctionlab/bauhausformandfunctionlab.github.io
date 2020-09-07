@@ -32,8 +32,6 @@ Co-developed by [Prof. Andreas Mühlenberend](https://www.uni-weimar.de/en/art-a
 
 {% include slider.html selector="bf_slider" %}
 <br />
-text
-text
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/445131873?color=ffffff" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <br />

@@ -29,6 +29,17 @@ Dieses Visier wurde von [Prof. Andreas Mühlenberend](https://www.uni-weimar.de/
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Dieses Design ist unter der <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a> lizenziert.
 <br /><br />
+### Brass Instrument Filters
+
+{% include slider.html selector="bf_slider" %}
+<br />
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/445131873?color=ffffff" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<br />
+[Production Files: Brass Instrument Filters](https://github.com/bauhausformandfunctionlab/covid19/tree/master/Covid-19_Filters_for_Brass_Instruments){:target="_blank" rel="noopener"}<br />
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+<br /><br />
 ### Produktionsalternative: 3DVerkstan-Visier
 Dieses [Visier](https://3dverkstan.se/protective-visor/){:target="_blank" rel="noopener"} eignet sich für die lokale Produktion wenn kein Lasercutter für PETG Material zur Verfügung steht. Das Design kann so optimiert werden, dass es in weniger als 40 Minuten (Prusa MK3 mit 0,4mm Nozzle) oder in 25 Minuten (Prusa MK3 mit 0,8mm Nozzle) gedruckt werden kann und nur 16g Filament pro Stück benötigt. Wir haben im 3D-Druck mit PETG gute Ergebnisse erzielt. Bei Bedarf kann auch mit PLA oder ABS gedruckt werden. Die Frontblende kann – auch manuell – aus verschiedenen Materialien hergestellt werden, unter anderem auch aus handelsüblichen DIN A4-Klarsichtfolien.
 
