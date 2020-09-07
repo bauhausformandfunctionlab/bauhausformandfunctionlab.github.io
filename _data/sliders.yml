@@ -81,3 +81,14 @@
     effect: "'fade'"
     interval: 5000
     transitionDuration: 700
+
+- selector: bf_slider
+  captions: false
+  images:
+    - src: /assets/images/bf/filter.png
+      alt: Brass Instrument Filter for Trompet
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+    interval: 5000
+    transitionDuration: 700

@@ -3,6 +3,7 @@ image_sliders:
   - blcv_slider
   - tdv_slider
   - pv_slider
+  - bf_slider
 ---
 
 ##### [English version here](https://bffl.io)
