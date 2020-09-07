@@ -29,14 +29,14 @@ Dieses Visier wurde von [Prof. Andreas Mühlenberend](https://www.uni-weimar.de/
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Dieses Design ist unter der <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a> lizenziert.
 <br /><br />
-### Brass Instrument Filters
+### Filter für Blasinstrumente
 
 {% include slider.html selector="bf_slider" %}
 <br />
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/445131873?color=ffffff" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <br />
-[Production Files: Brass Instrument Filters](https://github.com/bauhausformandfunctionlab/covid19/tree/master/Covid-19_Filters_for_Brass_Instruments){:target="_blank" rel="noopener"}<br />
+[Produktionsdateien: Filter für Blasinstrumente](https://github.com/bauhausformandfunctionlab/covid19/tree/master/Covid-19_Filters_for_Brass_Instruments){:target="_blank" rel="noopener"}<br />
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 <br /><br />
